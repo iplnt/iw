@@ -9,13 +9,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPjf8Y9ET2yie-tfY263X9UfnjJmk8qwMk1fDPZ1uhm_TqScqXxOKgWbU-xL2_RSCiTKcR5JLYyUlZTxSG4DSscQ-GUDJ9v_UFPlJ-1UUAzXhVQJxGxP8Bf48SCDExj2pdVqPApHL52C92qVyNv5_dmE_ohbZWjXr7IZ5dVAQIPZ8KnQRolkIAZmLjSzxE/s320-rw/ipwallet.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPjf8Y9ET2yie-tfY263X9UfnjJmk8qwMk1fDPZ1uhm_TqScqXxOKgWbU-xL2_RSCiTKcR5JLYyUlZTxSG4DSscQ-GUDJ9v_UFPlJ-1UUAzXhVQJxGxP8Bf48SCDExj2pdVqPApHL52C92qVyNv5_dmE_ohbZWjXr7IZ5dVAQIPZ8KnQRolkIAZmLjSzxE/s320-rw/ipwallet.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
