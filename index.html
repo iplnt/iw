@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>IP Wallet</title>
+  
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#7070FF">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  
+  <style>
+    /* Estilos para que el iframe ocupe toda la pantalla sin bordes */
+    body, html { 
+      margin: 0; 
+      padding: 0; 
+      height: 100%; 
+      width: 100%; 
+      overflow: hidden; /* Evita doble scroll */
+      background-color: #F0F4FF; /* Color de fondo de tu app */
+    }
+    iframe { 
+      border: none; 
+      width: 100%; 
+      height: 100%; 
+      display: block; 
+    }
+  </style>
+</head>
+<body>
+
+  <iframe src="TU_ENLACE_DE_GOOGLE_APPS_SCRIPT_AQUI" allowfullscreen></iframe>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js')
+          .then(registration => {
+            console.log('ServiceWorker registrado con éxito:', registration.scope);
+          })
+          .catch(error => {
+            console.log('Error al registrar el ServiceWorker:', error);
+          });
+      });
+    }
+  </script>
+
+</body>
+</html>
