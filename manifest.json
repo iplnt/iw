@@ -6,19 +6,11 @@
   "display": "standalone",
   "background_color": "#F0F4FF",
   "theme_color": "#7070FF",
-  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZF7zT49JVrYUqYjlH9ovUjz0-KrXmtDoeOVWjEw00eAM3KUEGWhrGK4WQt9Saw79uGlSHJXjf2QrSPr_X5BYJWJAZW_zNsUvK94wVWb2DYKo0aCmI54y6d5-uBJaS2K_BGYlLZVDj70FGk-emOkhoN_QvnjU6DQeFRP7F9xPEDqKmIvBUlxFwAUb8eiXj/s1600-rw/ewallet.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKugnSAV4k_0diy2jS6GkjNUlQ31vzjk3I3vFYNB5J_v7B0-bCiXDKX1HUmsIUpdTn9m0HzhKJuRQjx7Ew5Wl68UiYxUZPqPM_5L10qdPqQd9sTCt75BT_N2spDmLq7egBgUs6JwbNc9FMz4OUP1yBI2gdgyMWfuCCrz1ACxBfmD0KPJ1tpgzu_b81CSt/s512/ipwallet.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZF7zT49JVrYUqYjlH9ovUjz0-KrXmtDoeOVWjEw00eAM3KUEGWhrGK4WQt9Saw79uGlSHJXjf2QrSPr_X5BYJWJAZW_zNsUvK94wVWb2DYKo0aCmI54y6d5-uBJaS2K_BGYlLZVDj70FGk-emOkhoN_QvnjU6DQeFRP7F9xPEDqKmIvBUlxFwAUb8eiXj/s1600-rw/ewallet.png",
-      "sizes": "258x258",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
