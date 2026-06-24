@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ip-wallet-v1.5';
+const CACHE_NAME = 'ip-wallet-v1.8';
 const urlsToCache = [
   './',
   './index.html',
